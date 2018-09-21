@@ -1,0 +1,35 @@
+_repo: Folk-Lore-of-West-and-Mid-Wales_53915
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Amherst, Alice
+    gutenberg_agent_id: '47619'
+    url: http://www.gutenberg.org/2009/agents/47619
+creator:
+  author:
+    agent_name: Davies, Jonathan Ceredig
+    alias: Ceredig Davies, Jonathan
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '47618'
+    url: http://www.gutenberg.org/2009/agents/47618
+description: ''
+gutenberg_issued: '2017-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53915'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Wales'
+- !lcc 'GR'
+- !lcsh 'Wales -- Social life and customs'
+- GITenberg
+tableOfContents: Love customs, etc. -- Wedding customs  -- Funeral customs  -- Other
+  customs  -- Fairies and mermaids  -- Ghost stories  -- Death portents  -- Miscellaneous
+  beliefs, birds, etc. -- Witches and wizards, etc. -- Folk-healing  -- Fountains,
+  lakes, and caves  -- Local traditions.
+title: Folk-Lore of West and Mid-Wales
+url: http://www.gutenberg.org/ebooks/53915
